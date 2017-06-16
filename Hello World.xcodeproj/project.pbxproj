@@ -13,6 +13,8 @@
 		A0244B7C1EA94D56001DF3AA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A0244B7B1EA94D56001DF3AA /* Assets.xcassets */; };
 		A0244B7F1EA94D56001DF3AA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A0244B7D1EA94D56001DF3AA /* LaunchScreen.storyboard */; };
 		A0244B8A1EA94D56001DF3AA /* Hello_WorldTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0244B891EA94D56001DF3AA /* Hello_WorldTests.swift */; };
+		A0244B951EB1201F001DF3AA /* hedgehog.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A0244B941EB1201F001DF3AA /* hedgehog.jpg */; };
+		A0244B971EB122FA001DF3AA /* cat.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A0244B961EB122FA001DF3AA /* cat.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		A0244B851EA94D56001DF3AA /* Hello WorldTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Hello WorldTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A0244B891EA94D56001DF3AA /* Hello_WorldTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hello_WorldTests.swift; sourceTree = "<group>"; };
 		A0244B8B1EA94D56001DF3AA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A0244B941EB1201F001DF3AA /* hedgehog.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hedgehog.jpg; sourceTree = "<group>"; };
+		A0244B961EB122FA001DF3AA /* cat.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cat.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +84,8 @@
 				A0244B741EA94D56001DF3AA /* AppDelegate.swift */,
 				A0244B761EA94D56001DF3AA /* ViewController.swift */,
 				A0244B781EA94D56001DF3AA /* Main.storyboard */,
+				A0244B941EB1201F001DF3AA /* hedgehog.jpg */,
+				A0244B961EB122FA001DF3AA /* cat.jpg */,
 				A0244B7B1EA94D56001DF3AA /* Assets.xcassets */,
 				A0244B7D1EA94D56001DF3AA /* LaunchScreen.storyboard */,
 				A0244B801EA94D56001DF3AA /* Info.plist */,
@@ -179,8 +185,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A0244B971EB122FA001DF3AA /* cat.jpg in Resources */,
 				A0244B7F1EA94D56001DF3AA /* LaunchScreen.storyboard in Resources */,
 				A0244B7C1EA94D56001DF3AA /* Assets.xcassets in Resources */,
+				A0244B951EB1201F001DF3AA /* hedgehog.jpg in Resources */,
 				A0244B7A1EA94D56001DF3AA /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
